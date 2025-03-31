@@ -7,6 +7,10 @@
 
 ## https://youtu.be/2_d4GnPgWg4?si=3sa_S2UrfyINOwik
 
+# Intro to K8s and Rancher - 2020-07-24:
+
+## https://youtu.be/5y8JKlVLRZM?si=NeuMzfurT_9Zzmoo
+
 # Rancher UI Server documentation: 
 
 ## https://ranchermanager.docs.rancher.com/v2.10/how-to-guides/new-user-guides/manage-clusters/nodes-and-node-pools
